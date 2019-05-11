@@ -2,8 +2,8 @@
 WorldInfo {
 }
 Viewpoint {
-  orientation 0.7432705303728645 0.43149911474485014 0.5112312907614821 4.262166439459274
-  position 0.588806488134522 1.6509530948895392 -0.3550820724035889
+  orientation 0.952398217540973 0.2725185360948767 0.13664290215551958 5.313990171906432
+  position 0.057924461488474445 1.6477130932507371 1.0074431429211281
 }
 TexturedBackground {
 }
@@ -57,7 +57,7 @@ DEF A3_CYL3 Solid {
   name "solid(2)"
 }
 DEF CYL4 Solid {
-  translation 0.9 0.175 0
+  translation 0.825 0.175 0
   children [
     Shape {
       appearance USE A_1
@@ -90,7 +90,7 @@ DEF C6 Solid {
   name "solid(5)"
 }
 DEF C7 Solid {
-  translation 0.9 0.175 -0.6
+  translation 0.825 0.175 -0.7
   children [
     Shape {
       appearance USE A_3
@@ -110,7 +110,7 @@ DEF C8 Solid {
   name "solid(7)"
 }
 DEF C9 Solid {
-  translation 0.9 0.175 -0.3
+  translation 0.825 0.175 -0.35
   children [
     Shape {
       appearance USE A_2
